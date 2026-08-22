@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/hayatiptv/iptv/refs/heads/master/tr-EPG-guide.xml"
 #EXTINF:-1 tvg-id="" tvg-name=" TRT 1 8K"  group-title="ULUSAL", TRT 1 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196699&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" ATV 8K"  group-title="ULUSAL", ATV 8K
