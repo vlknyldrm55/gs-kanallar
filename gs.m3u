@@ -1,919 +1,866 @@
 #EXTM3U
 # * »ULUSAL « * #
-#EXTINF:-1 group-title="ULUSAL",TRT 1 8K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-1-tr.png" group-title="ULUSAL",TRT 1 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196699&extension=ts
-#EXTINF:-1 group-title="ULUSAL",ATV 8K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/atv-tr.png" group-title="ULUSAL",ATV 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196698&extension=ts
-#EXTINF:-1 group-title="ULUSAL",SHOW TV 8K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/show-tr.png" group-title="ULUSAL",SHOW TV 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196697&extension=ts
-#EXTINF:-1 group-title="ULUSAL",KANAL D 8K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-d-tr.png" group-title="ULUSAL",KANAL D 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196696&extension=ts
-#EXTINF:-1 group-title="ULUSAL",STAR TV 8K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/star-tv-tr.png" group-title="ULUSAL",STAR TV 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196695&extension=ts
-#EXTINF:-1 group-title="ULUSAL",NOW TV 8K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/now-tr.png" group-title="ULUSAL",NOW TV 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196694&extension=ts
-#EXTINF:-1 group-title="ULUSAL",TV 8 8K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv8-tr.png" group-title="ULUSAL",TV 8 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196693&extension=ts
-#EXTINF:-1 group-title="ULUSAL",TV 8.5 8K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv85-tr.png" group-title="ULUSAL",TV 8.5 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196692&extension=ts
-#EXTINF:-1 group-title="ULUSAL",BEYAZ TV 8K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/beyaz-tv-tr.png" group-title="ULUSAL",BEYAZ TV 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196675&extension=ts
-#EXTINF:-1 group-title="ULUSAL",KANAL 7 8K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-7-tr.png" group-title="ULUSAL",KANAL 7 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196690&extension=ts
-#EXTINF:-1 group-title="ULUSAL",TEVE 2 8K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/teve2-tr.png" group-title="ULUSAL",TEVE 2 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196689&extension=ts
-#EXTINF:-1 group-title="ULUSAL",TRT 2 8K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-2-tr.png" group-title="ULUSAL",TRT 2 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196688&extension=ts
-#EXTINF:-1 group-title="ULUSAL",TRT 4K 8K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-4k-tr.png" group-title="ULUSAL",TRT 4K 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197438&extension=ts
-#EXTINF:-1 group-title="ULUSAL",A2 8K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a2-tr.png" group-title="ULUSAL",A2 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196687&extension=ts
-#EXTINF:-1 group-title="ULUSAL",360 8K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/360-tr.png" group-title="ULUSAL",360 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196686&extension=ts
-#EXTINF:-1 group-title="ULUSAL",SHOW MAX 8K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/show-max-tr.png" group-title="ULUSAL",SHOW MAX 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196700&extension=ts
-#EXTINF:-1 group-title="ULUSAL",TRT 1 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-1-tr.png" group-title="ULUSAL",TRT 1 4K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196683&extension=ts
-#EXTINF:-1 group-title="ULUSAL",ATV 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/atv-tr.png" group-title="ULUSAL",ATV 4K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196682&extension=ts
-#EXTINF:-1 group-title="ULUSAL",SHOW TV 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/show-tr.png" group-title="ULUSAL",SHOW TV 4K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196681&extension=ts
-#EXTINF:-1 group-title="ULUSAL",KANAL D 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-d-tr.png" group-title="ULUSAL",KANAL D 4K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196680&extension=ts
-#EXTINF:-1 group-title="ULUSAL",NOW TV 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/now-tr.png" group-title="ULUSAL",NOW TV 4K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196678&extension=ts
-#EXTINF:-1 group-title="ULUSAL",TV 8 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv8-tr.png" group-title="ULUSAL",TV 8 4K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196677&extension=ts
-#EXTINF:-1 group-title="ULUSAL",TV 8.5 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv85-tr.png" group-title="ULUSAL",TV 8.5 4K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196676&extension=ts
-#EXTINF:-1 group-title="ULUSAL",KANAL 7 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-7-tr.png" group-title="ULUSAL",KANAL 7 4K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196674&extension=ts
-#EXTINF:-1 group-title="ULUSAL",TEVE 2 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/teve2-tr.png" group-title="ULUSAL",TEVE 2 4K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196673&extension=ts
-#EXTINF:-1 group-title="ULUSAL",TRT 2 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-2-tr.png" group-title="ULUSAL",TRT 2 4K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196672&extension=ts
-#EXTINF:-1 group-title="ULUSAL",A2 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a2-tr.png" group-title="ULUSAL",A2 4K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196671&extension=ts
-#EXTINF:-1 group-title="ULUSAL",360 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/360-tr.png" group-title="ULUSAL",360 4K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196670&extension=ts
-#EXTINF:-1 group-title="ULUSAL",SHOW MAX 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/show-max-tr.png" group-title="ULUSAL",SHOW MAX 4K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196669&extension=ts
-#EXTINF:-1 group-title="ULUSAL",TRT 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-1-tr.png" group-title="ULUSAL",TRT 1 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196715&extension=ts
-#EXTINF:-1 group-title="ULUSAL",ATV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/atv-tr.png" group-title="ULUSAL",ATV HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196714&extension=ts
-#EXTINF:-1 group-title="ULUSAL",SHOW TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/show-tr.png" group-title="ULUSAL",SHOW TV HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196713&extension=ts
-#EXTINF:-1 group-title="ULUSAL",KANAL D HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-d-tr.png" group-title="ULUSAL",KANAL D HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196712&extension=ts
-#EXTINF:-1 group-title="ULUSAL",STAR TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/star-tv-tr.png" group-title="ULUSAL",STAR TV HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196711&extension=ts
-#EXTINF:-1 group-title="ULUSAL",NOW TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/now-tr.png" group-title="ULUSAL",NOW TV HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196710&extension=ts
-#EXTINF:-1 group-title="ULUSAL",TV 8 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv8-tr.png" group-title="ULUSAL",TV 8 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196709&extension=ts
-#EXTINF:-1 group-title="ULUSAL",TV 8.5 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv85-tr.png" group-title="ULUSAL",TV 8.5 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196708&extension=ts
-#EXTINF:-1 group-title="ULUSAL",BEYAZ TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/beyaz-tv-tr.png" group-title="ULUSAL",BEYAZ TV HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196707&extension=ts
-#EXTINF:-1 group-title="ULUSAL",KANAL 7 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-7-tr.png" group-title="ULUSAL",KANAL 7 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196706&extension=ts
-#EXTINF:-1 group-title="ULUSAL",TEVE 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/teve2-tr.png" group-title="ULUSAL",TEVE 2 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196705&extension=ts
-#EXTINF:-1 group-title="ULUSAL",TRT 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-2-tr.png" group-title="ULUSAL",TRT 2 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196704&extension=ts
-#EXTINF:-1 group-title="ULUSAL",A2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a2-tr.png" group-title="ULUSAL",A2 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196703&extension=ts
-#EXTINF:-1 group-title="ULUSAL",360 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/360-tr.png" group-title="ULUSAL",360 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196702&extension=ts
-#EXTINF:-1 group-title="ULUSAL",SHOW MAX HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/show-max-tr.png" group-title="ULUSAL",SHOW MAX HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196701&extension=ts
-#EXTINF:-1 group-title="ULUSAL",ATV AVRUPA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/atv-avrupa-tr.png" group-title="ULUSAL",ATV AVRUPA
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196666&extension=ts
-#EXTINF:-1 group-title="ULUSAL",SHOW TURK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/show-turk-tr.png" group-title="ULUSAL",SHOW TURK
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196664&extension=ts
-#EXTINF:-1 group-title="ULUSAL",EURO D
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/euro-d-tr.png" group-title="ULUSAL",EURO D
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196663&extension=ts
-#EXTINF:-1 group-title="ULUSAL",TV 8 INT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv8-tr.png" group-title="ULUSAL",TV 8 INT
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196662&extension=ts
-#EXTINF:-1 group-title="ULUSAL",KANAL 7 AVRUPA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-7-avrupa-tr.png" group-title="ULUSAL",KANAL 7 AVRUPA
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196661&extension=ts
-#EXTINF:-1 group-title="ULUSAL",KANAL FIRAT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-firat-tr.png" group-title="ULUSAL",KANAL FIRAT
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196660&extension=ts
-#EXTINF:-1 group-title="ULUSAL",TV1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv1-tr.png" group-title="ULUSAL",TV1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196659&extension=ts
-#EXTINF:-1 group-title="ULUSAL",BRT 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/brt-1-hd-tr.png" group-title="ULUSAL",BRT 1 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196657&extension=ts
-#EXTINF:-1 group-title="ULUSAL",BRT 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/brt-2-hd-tr.png" group-title="ULUSAL",BRT 2 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=196656&extension=ts
-# * » YEREL « * #
-#EXTINF:-1 group-title="YEREL",AKIT TV
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197233&extension=ts
-#EXTINF:-1 group-title="YEREL",AKILLI TV
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197231&extension=ts
-#EXTINF:-1 group-title="YEREL",BENGÜ TÜRK
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197227&extension=ts
-#EXTINF:-1 group-title="YEREL",CEM TV
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197223&extension=ts
-#EXTINF:-1 group-title="YEREL",EKOTURK TV
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197215&extension=ts
-#EXTINF:-1 group-title="YEREL",KANAL AVRUPA
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197199&extension=ts
-#EXTINF:-1 group-title="YEREL",KANAL B
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197198&extension=ts
-#EXTINF:-1 group-title="YEREL",KRT TV
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197195&extension=ts
-#EXTINF:-1 group-title="YEREL",KÖY TV
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197193&extension=ts
-#EXTINF:-1 group-title="YEREL",KON TV
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197191&extension=ts
-#EXTINF:-1 group-title="YEREL",RUMELI TV
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197188&extension=ts
-#EXTINF:-1 group-title="YEREL",MAVI KARADENIZ
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197183&extension=ts
-#EXTINF:-1 group-title="YEREL",MELTEM TV
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197182&extension=ts
-#EXTINF:-1 group-title="YEREL",ULUSAL KANAL
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197178&extension=ts
-#EXTINF:-1 group-title="YEREL",SAT7 TURK
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197177&extension=ts
-#EXTINF:-1 group-title="YEREL",MC EU
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197176&extension=ts
-#EXTINF:-1 group-title="YEREL",TGRT EU
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197175&extension=ts
-#EXTINF:-1 group-title="YEREL",TV 1 KAYSERI
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197171&extension=ts
-#EXTINF:-1 group-title="YEREL",VAV TV
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197167&extension=ts
-#EXTINF:-1 group-title="YEREL",YOL TV
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197164&extension=ts
-#EXTINF:-1 group-title="YEREL",YILDIZ EN
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197163&extension=ts
-#EXTINF:-1 group-title="YEREL",TV 5
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197160&extension=ts
 # * » HABER « * #
-#EXTINF:-1 group-title="HABER",HABER TÜRK 8K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/haberturk-tr.png" group-title="HABER",HABER TÜRK 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197264&extension=ts
-#EXTINF:-1 group-title="HABER",TGRT HABER 8K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tgrt-haber-tr.png" group-title="HABER",TGRT HABER 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197263&extension=ts
-#EXTINF:-1 group-title="HABER",TRT HABER 8K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-haber-tr.png" group-title="HABER",TRT HABER 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197262&extension=ts
-#EXTINF:-1 group-title="HABER",TRT WORLD 8K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-world-tr.png" group-title="HABER",TRT WORLD 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197261&extension=ts
-#EXTINF:-1 group-title="HABER",CNN TÜRK 8K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/cnn-turk-tr.png" group-title="HABER",CNN TÜRK 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197260&extension=ts
-#EXTINF:-1 group-title="HABER",A HABER 8K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-haber-tr.png" group-title="HABER",A HABER 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197259&extension=ts
-#EXTINF:-1 group-title="HABER",ULKE TV 8K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/ulke-tv-tr.png" group-title="HABER",ULKE TV 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197258&extension=ts
-#EXTINF:-1 group-title="HABER",NTV 8K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/ntv-tr.png" group-title="HABER",NTV 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197266&extension=ts
-#EXTINF:-1 group-title="HABER",FLASH HABER 8K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/flash-tv-tr.png" group-title="HABER",FLASH HABER 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197265&extension=ts
-#EXTINF:-1 group-title="HABER",HABER GLOBAL 8K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/haber-global-tr.png" group-title="HABER",HABER GLOBAL 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197268&extension=ts
-#EXTINF:-1 group-title="HABER",BLOOMBERG 8K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bloomberg-ht-tr.png" group-title="HABER",BLOOMBERG 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197269&extension=ts
-#EXTINF:-1 group-title="HABER",24 HABER 8K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/24-tr.png" group-title="HABER",24 HABER 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197270&extension=ts
-#EXTINF:-1 group-title="HABER",A NEWS 8K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-news-tr.png" group-title="HABER",A NEWS 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197271&extension=ts
-#EXTINF:-1 group-title="HABER",A PARA 8K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" group-title="HABER",A PARA 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197272&extension=ts
-#EXTINF:-1 group-title="HABER",TV 100 8K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv100-tr.png" group-title="HABER",TV 100 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197273&extension=ts
-#EXTINF:-1 group-title="HABER",TRT TÜRK 8K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-turk-tr.png" group-title="HABER",TRT TÜRK 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197240&extension=ts
-#EXTINF:-1 group-title="HABER",HALK TV 8K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/halk-tv-tr.png" group-title="HABER",HALK TV 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197274&extension=ts
-#EXTINF:-1 group-title="HABER",TELE 1 8K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tele1-tr.png" group-title="HABER",TELE 1 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197275&extension=ts
-#EXTINF:-1 group-title="HABER",KRT 8K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/krt-tr.png" group-title="HABER",KRT 8K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197276&extension=ts
-#EXTINF:-1 group-title="HABER",HABER TÜRK 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/haberturk-tr.png" group-title="HABER",HABER TÜRK 4K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197251&extension=ts
-#EXTINF:-1 group-title="HABER",TGRT HABER 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tgrt-haber-tr.png" group-title="HABER",TGRT HABER 4K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197255&extension=ts
-#EXTINF:-1 group-title="HABER",TRT HABER 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-haber-tr.png" group-title="HABER",TRT HABER 4K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197249&extension=ts
-#EXTINF:-1 group-title="HABER",TRT WORLD 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-world-tr.png" group-title="HABER",TRT WORLD 4K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197254&extension=ts
-#EXTINF:-1 group-title="HABER",CNN TÜRK 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/cnn-turk-tr.png" group-title="HABER",CNN TÜRK 4K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197253&extension=ts
-#EXTINF:-1 group-title="HABER",A HABER 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-haber-tr.png" group-title="HABER",A HABER 4K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197252&extension=ts
-#EXTINF:-1 group-title="HABER",ULKE TV 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/ulke-tv-tr.png" group-title="HABER",ULKE TV 4K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197250&extension=ts
-#EXTINF:-1 group-title="HABER",NTV 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/ntv-tr.png" group-title="HABER",NTV 4K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197247&extension=ts
-#EXTINF:-1 group-title="HABER",FLASH HABER 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/flash-tv-tr.png" group-title="HABER",FLASH HABER 4K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197246&extension=ts
-#EXTINF:-1 group-title="HABER",HABER GLOBAL 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/haber-global-tr.png" group-title="HABER",HABER GLOBAL 4K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197244&extension=ts
-#EXTINF:-1 group-title="HABER",BLOOMBERG 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bloomberg-ht-tr.png" group-title="HABER",BLOOMBERG 4K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197243&extension=ts
-#EXTINF:-1 group-title="HABER",24 HABER 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/24-tr.png" group-title="HABER",24 HABER 4K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197241&extension=ts
-#EXTINF:-1 group-title="HABER",EKOL TV 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-haber-tr.png" group-title="HABER",EKOL TV 4K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1257377&extension=ts
-#EXTINF:-1 group-title="HABER",A NEWS 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-news-tr.png" group-title="HABER",A NEWS 4K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197239&extension=ts
-#EXTINF:-1 group-title="HABER",A PARA 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" group-title="HABER",A PARA 4K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197238&extension=ts
-#EXTINF:-1 group-title="HABER",TV 100 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv100-tr.png" group-title="HABER",TV 100 4K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197237&extension=ts
-#EXTINF:-1 group-title="HABER",TRT TÜRK 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-turk-tr.png" group-title="HABER",TRT TÜRK 4K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197236&extension=ts
-#EXTINF:-1 group-title="HABER",HALK TV 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/halk-tv-tr.png" group-title="HABER",HALK TV 4K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197235&extension=ts
-#EXTINF:-1 group-title="HABER",TELE 1 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tele1-tr.png" group-title="HABER",TELE 1 4K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197277&extension=ts
-#EXTINF:-1 group-title="HABER",KRT 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/krt-tr.png" group-title="HABER",KRT 4K
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197278&extension=ts
-#EXTINF:-1 group-title="HABER",HABER TÜRK HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/haberturk-tr.png" group-title="HABER",HABER TÜRK HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197283&extension=ts
-#EXTINF:-1 group-title="HABER",TGRT HABER HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tgrt-haber-tr.png" group-title="HABER",TGRT HABER HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197284&extension=ts
-#EXTINF:-1 group-title="HABER",TRT HABER HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-haber-tr.png" group-title="HABER",TRT HABER HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197285&extension=ts
-#EXTINF:-1 group-title="HABER",TRT WORLD HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-world-tr.png" group-title="HABER",TRT WORLD HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197286&extension=ts
-#EXTINF:-1 group-title="HABER",CNN TÜRK HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/cnn-turk-tr.png" group-title="HABER",CNN TÜRK HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197287&extension=ts
-#EXTINF:-1 group-title="HABER",A HABER HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-haber-tr.png" group-title="HABER",A HABER HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197288&extension=ts
-#EXTINF:-1 group-title="HABER",ULKE TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/ulke-tv-tr.png" group-title="HABER",ULKE TV HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197289&extension=ts
-#EXTINF:-1 group-title="HABER",NTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/ntv-tr.png" group-title="HABER",NTV HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197291&extension=ts
-#EXTINF:-1 group-title="HABER",FLASH HABER HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/flash-tv-tr.png" group-title="HABER",FLASH HABER HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197292&extension=ts
-#EXTINF:-1 group-title="HABER",HABER GLOBAL HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/haber-global-tr.png" group-title="HABER",HABER GLOBAL HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197294&extension=ts
-#EXTINF:-1 group-title="HABER",BLOOMBERG HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bloomberg-ht-tr.png" group-title="HABER",BLOOMBERG HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197295&extension=ts
-#EXTINF:-1 group-title="HABER",24 HABER HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/24-tr.png" group-title="HABER",24 HABER HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197296&extension=ts
-#EXTINF:-1 group-title="HABER",A NEWS HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-news-tr.png" group-title="HABER",A NEWS HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197297&extension=ts
-#EXTINF:-1 group-title="HABER",A PARA HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-para-tr.png" group-title="HABER",A PARA HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197298&extension=ts
-#EXTINF:-1 group-title="HABER",TV 100 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv100-tr.png" group-title="HABER",TV 100 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197299&extension=ts
-#EXTINF:-1 group-title="HABER",HALK TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/halk-tv-tr.png" group-title="HABER",HALK TV HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197301&extension=ts
-#EXTINF:-1 group-title="HABER",TELE 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tele1-tr.png" group-title="HABER",TELE 1 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197302&extension=ts
-#EXTINF:-1 group-title="HABER",KRT HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/krt-tr.png" group-title="HABER",KRT HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197303&extension=ts
-#EXTINF:-1 group-title="HABER",TRT TÜRK HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-turk-tr.png" group-title="HABER",TRT TÜRK HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197300&extension=ts
+# * » BELGESEL « * #
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-belgesel-tr.png" group-title="BELGESEL",TRT BELGESEL HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197441&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-belgesel-tr.png" group-title="BELGESEL",DISCOVERY CHANNEL HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197427&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-belgesel-tr.png" group-title="BELGESEL",24KITCHEN HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197440&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-belgesel-tr.png" group-title="BELGESEL",VIASAT HISTORY HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197420&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-belgesel-tr.png" group-title="BELGESEL",VIASAT EXPLORE HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197442&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-belgesel-tr.png" group-title="BELGESEL",DMAX HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197428&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-belgesel-tr.png" group-title="BELGESEL",TLC HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197429&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-belgesel-tr.png" group-title="BELGESEL",LOVE NATURE HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197434&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-gurme-hd-tr.png" group-title="BELGESEL",BEIN GURME HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197426&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-iz-hd-tr.png" group-title="BELGESEL",BEIN IZ HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197425&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tgrt-belgesel-tr.png" group-title="BELGESEL",TGRT BELGESEL HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197424&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-avaz-tr.png" group-title="BELGESEL",TRT AVAZ HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197422&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/yaban-tr.png" group-title="BELGESEL",YABAN TV HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197439&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-belgesel-tr.png" group-title="BELGESEL",BBC EARTH HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197431&extension=ts
+# * » BEIN SPORTS HEVC « * #
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS 1 FHD HEVC
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988849&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS 1 FHD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988850&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS 1 HD HEVC
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988851&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS 1 HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988852&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS 1
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988853&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS 2 FHD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988854&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS 2 HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988855&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS 3 FHD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988856&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS 3 HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988857&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS 4 FHD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988858&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS 4 HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988859&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS 5 HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988861&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS MAX 1 HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988862&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS HEVC",BEIN SPORTS MAX 2 HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988863&extension=ts
+# * » BEIN SPORTS FHD « * #
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS FHD",BEIN SPORTS 1 RAW
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988867&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS FHD",BEIN SPORTS 1 FHD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988874&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS FHD",BEIN SPORTS 1 HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988881&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS FHD",BEIN SPORTS 2 RAW
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988868&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS FHD",BEIN SPORTS 2 FHD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988875&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS FHD",BEIN SPORTS 2 HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988882&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS FHD",BEIN SPORTS 3 RAW
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988869&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS FHD",BEIN SPORTS 3 FHD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988876&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS FHD",BEIN SPORTS 3 HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988883&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS FHD",BEIN SPORTS 4 RAW
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988870&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS FHD",BEIN SPORTS 4 FHD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988877&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS FHD",BEIN SPORTS 4 HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988884&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS FHD",BEIN SPORTS 5 RAW
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988871&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS FHD",BEIN SPORTS 5 FHD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988878&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS FHD",BEIN SPORTS 5 HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988885&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS FHD",BEIN SPORTS MAX 1 RAW
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988872&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS FHD",BEIN SPORTS MAX 2 RAW
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988873&extension=ts
+# * » BEIN SPORTS « * #
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS",BEIN SPORTS MAX 1 HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=740&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS",BEIN SPORTS MAX 2 HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=739&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS",BEIN SPORTS 5
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=214066&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS",BEIN CONNECT 1 HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=793282&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS",BEIN CONNECT 2 HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=793283&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS",BEIN CONNECT 3 HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=793284&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS",BEIN CONNECT 4 HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=793285&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS",BEIN CONNECT 5 HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=793286&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-hd-tr.png" group-title="BEIN SPORTS",BEIN CONNECT 6 HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=793287&extension=ts
+# * » EXXEN SPORTS « * #
+#EXTINF:-1 group-title="EXXEN SPORTS",EXXEN SPORTS 1 4K
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=15340&extension=ts
+#EXTINF:-1 group-title="EXXEN SPORTS",EXXEN SPORTS 1 HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=15521&extension=ts
+#EXTINF:-1 group-title="EXXEN SPORTS",EXXEN SPORTS 1
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=15522&extension=ts
+#EXTINF:-1 group-title="EXXEN SPORTS",EXXEN SPORTS 2 HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=15341&extension=ts
+#EXTINF:-1 group-title="EXXEN SPORTS",EXXEN SPORTS 3 HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=15342&extension=ts
+#EXTINF:-1 group-title="EXXEN SPORTS",EXXEN SPORTS 4 FHD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=15515&extension=ts
+#EXTINF:-1 group-title="EXXEN SPORTS",EXXEN SPORTS 5 FHD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=15516&extension=ts
+#EXTINF:-1 group-title="EXXEN SPORTS",EXXEN SPORTS 6 FHD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=15517&extension=ts
+#EXTINF:-1 group-title="EXXEN SPORTS",EXXEN SPORTS 7 FHD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=15518&extension=ts
+#EXTINF:-1 group-title="EXXEN SPORTS",EXXEN SPORTS 8 FHD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=15519&extension=ts
+# * » S SPORTS « * #
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/spor-smart-hd-tr.png" group-title="S SPORTS",SPOR SMART 1 4K
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=713&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/spor-smart-hd-tr.png" group-title="S SPORTS",SPOR SMART 2 4K
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=18631&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/spor-smart-hd-tr.png" group-title="S SPORTS",FIGHTBOX 4K
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=18635&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/spor-smart-hd-tr.png" group-title="S SPORTS",SPOR SMART 1 HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=704&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/spor-smart-hd-tr.png" group-title="S SPORTS",SPOR SMART 2 HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=18640&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-spor-tr.png" group-title="SPOR",TRT SPOR 8K
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=709&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-spor-yildiz-tr.png" group-title="SPOR",TRT SPOR YILDIZ 8K
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=18644&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" group-title="SPOR",A SPOR 8K
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=710&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tjk-tv-tr.png" group-title="SPOR",TJK TV 8K
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=18648&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-spor-tr.png" group-title="SPOR",TRT SPOR 4K
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=701&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-spor-yildiz-tr.png" group-title="SPOR",TRT SPOR YILDIZ 4K
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=18645&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/a-spor-tr.png" group-title="SPOR",A SPOR 4K
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=702&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/fenerbahce-tv-tr.png" group-title="SPOR",FENERBACHE TV HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=695&extension=ts
+# * » TIVIBU SPOR « * #
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/spor-smart-hd-tr.png" group-title="TIVIBU SPOR",TIVIBU SPOR 1 4K
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=722&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/spor-smart-hd-tr.png" group-title="TIVIBU SPOR",TIVIBU SPOR 2 4K
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=721&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/spor-smart-hd-tr.png" group-title="TIVIBU SPOR",TIVIBU SPOR 4 4K
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=15569&extension=ts
+# * » TABII SPOR « * #
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/spor-smart-hd-tr.png" group-title="TABII SPOR",TABII SPOR 1 HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=879139&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/spor-smart-hd-tr.png" group-title="TABII SPOR",TABII SPOR 5 HD
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=879143&extension=ts
+# * » YEREL « * #
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/akit-tv-tr.png" group-title="YEREL",AKIT TV
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197233&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-1-tr.png" group-title="YEREL",AKILLI TV
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197231&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bengu-turk-tr.png" group-title="YEREL",BENGÜ TÜRK
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197227&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/cem-tv-tr.png" group-title="YEREL",CEM TV
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197223&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/ekoturk-tr.png" group-title="YEREL",EKOTURK TV
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197215&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-avrupa-tr.png" group-title="YEREL",KANAL AVRUPA
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197199&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-b-tr.png" group-title="YEREL",KANAL B
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197198&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/krt-tr.png" group-title="YEREL",KRT TV
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197195&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/koy-tv-tr.png" group-title="YEREL",KÖY TV
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197193&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kon-tv-tr.png" group-title="YEREL",KON TV
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197191&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/rumeli-tv-tr.png" group-title="YEREL",RUMELI TV
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197188&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/mavi-karadeniz-tr.png" group-title="YEREL",MAVI KARADENIZ
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197183&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-1-tr.png" group-title="YEREL",MELTEM TV
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197182&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/ulusal-tv-tr.png" group-title="YEREL",ULUSAL KANAL
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197178&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sat7-turk-tr.png" group-title="YEREL",SAT7 TURK
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197177&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-1-tr.png" group-title="YEREL",MC EU
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197176&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tgrt-eu-tr.png" group-title="YEREL",TGRT EU
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197175&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-1-tr.png" group-title="YEREL",TV 1 KAYSERI
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197171&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/vav-tv-tr.png" group-title="YEREL",VAV TV
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197167&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/yol-tv-tr.png" group-title="YEREL",YOL TV
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197164&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/yildiz-en-tv-tr.png" group-title="YEREL",YILDIZ EN
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197163&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv5-tr.png" group-title="YEREL",TV 5
+http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197160&extension=ts
 # * » COCUK « * #
-#EXTINF:-1 group-title="COCUK",BABY TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-cocuk-tr.png" group-title="COCUK",BABY TV HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197418&extension=ts
-#EXTINF:-1 group-title="COCUK",DISNEY JR HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/disney-channel-tr.png" group-title="COCUK",DISNEY JR HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197416&extension=ts
-#EXTINF:-1 group-title="COCUK",CBEEBIES HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-cocuk-tr.png" group-title="COCUK",CBEEBIES HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197366&extension=ts
-#EXTINF:-1 group-title="COCUK",TRT EBA TV ORTAOKUL HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/eba-tv-ortaokul-tr.png" group-title="COCUK",TRT EBA TV ORTAOKUL HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197368&extension=ts
-#EXTINF:-1 group-title="COCUK",TRT EBA TV LISE HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/eba-tv-lise-tr.png" group-title="COCUK",TRT EBA TV LISE HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197367&extension=ts
-#EXTINF:-1 group-title="COCUK",BARBIE TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-cocuk-tr.png" group-title="COCUK",BARBIE TV HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197408&extension=ts
-#EXTINF:-1 group-title="COCUK",PEPPA PIG HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-cocuk-tr.png" group-title="COCUK",PEPPA PIG HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197407&extension=ts
-#EXTINF:-1 group-title="COCUK",KARE HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-cocuk-tr.png" group-title="COCUK",KARE HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197404&extension=ts
-#EXTINF:-1 group-title="COCUK",RAFADAN TAYFA HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-cocuk-tr.png" group-title="COCUK",RAFADAN TAYFA HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197403&extension=ts
-#EXTINF:-1 group-title="COCUK",KRAL SAKIR HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-cocuk-tr.png" group-title="COCUK",KRAL SAKIR HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197401&extension=ts
-#EXTINF:-1 group-title="COCUK",PIJAMASKELILER HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-cocuk-tr.png" group-title="COCUK",PIJAMASKELILER HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197400&extension=ts
-#EXTINF:-1 group-title="COCUK",MASA ILE KOCA AYI HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-cocuk-tr.png" group-title="COCUK",MASA ILE KOCA AYI HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197399&extension=ts
-#EXTINF:-1 group-title="COCUK",BARBIE HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-cocuk-tr.png" group-title="COCUK",BARBIE HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197398&extension=ts
-#EXTINF:-1 group-title="COCUK",KUKULI HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-cocuk-tr.png" group-title="COCUK",KUKULI HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197397&extension=ts
-#EXTINF:-1 group-title="COCUK",NILOYA HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-cocuk-tr.png" group-title="COCUK",NILOYA HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197396&extension=ts
-#EXTINF:-1 group-title="COCUK",PEPPE HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-cocuk-tr.png" group-title="COCUK",PEPPE HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197395&extension=ts
-#EXTINF:-1 group-title="COCUK",SIRINLER HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-cocuk-tr.png" group-title="COCUK",SIRINLER HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197394&extension=ts
-#EXTINF:-1 group-title="COCUK",DORU HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-cocuk-tr.png" group-title="COCUK",DORU HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197385&extension=ts
-#EXTINF:-1 group-title="COCUK",CAILLOU HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-cocuk-tr.png" group-title="COCUK",CAILLOU HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197382&extension=ts
 # * » BEIN PLATFORM « * #
-#EXTINF:-1 group-title="BEIN PLATFORM",BEIN SERIES 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-series-drama-hd-tr.png" group-title="BEIN PLATFORM",BEIN SERIES 1 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471673&extension=ts
-#EXTINF:-1 group-title="BEIN PLATFORM",BEIN SERIES 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-series-drama-hd-tr.png" group-title="BEIN PLATFORM",BEIN SERIES 2 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471674&extension=ts
-#EXTINF:-1 group-title="BEIN PLATFORM",BEIN SERIES 3 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-series-comedy-hd-tr.png" group-title="BEIN PLATFORM",BEIN SERIES 3 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471675&extension=ts
-#EXTINF:-1 group-title="BEIN PLATFORM",BEIN SERIES 4 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-series-comedy-hd-tr.png" group-title="BEIN PLATFORM",BEIN SERIES 4 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471676&extension=ts
-#EXTINF:-1 group-title="BEIN PLATFORM",BEIN MOVIES PREMIERE HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-movies-premiere-hd-tr.png" group-title="BEIN PLATFORM",BEIN MOVIES PREMIERE HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471678&extension=ts
-#EXTINF:-1 group-title="BEIN PLATFORM",BEIN MOVIES PREMIERE 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-movies-premiere-2-hd-tr.png" group-title="BEIN PLATFORM",BEIN MOVIES PREMIERE 2 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471679&extension=ts
-#EXTINF:-1 group-title="BEIN PLATFORM",BEIN MOVIES ACTION HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-movies-action-hd-tr.png" group-title="BEIN PLATFORM",BEIN MOVIES ACTION HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471677&extension=ts
-#EXTINF:-1 group-title="BEIN PLATFORM",BEIN MOVIES STARS HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-movies-stars-hd-tr.png" group-title="BEIN PLATFORM",BEIN MOVIES STARS HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471680&extension=ts
-#EXTINF:-1 group-title="BEIN PLATFORM",BEIN MOVIES TURK HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-movies-turk-hd-tr.png" group-title="BEIN PLATFORM",BEIN MOVIES TURK HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471681&extension=ts
-#EXTINF:-1 group-title="BEIN PLATFORM",BEIN BOX OFFICE 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-box-office-1-tr.png" group-title="BEIN PLATFORM",BEIN BOX OFFICE 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471698&extension=ts
-#EXTINF:-1 group-title="BEIN PLATFORM",BEIN BOX OFFICE 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-box-office-2-tr.png" group-title="BEIN PLATFORM",BEIN BOX OFFICE 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471699&extension=ts
-#EXTINF:-1 group-title="BEIN PLATFORM",BEIN BOX OFFICE 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-box-office-3-tr.png" group-title="BEIN PLATFORM",BEIN BOX OFFICE 3
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471700&extension=ts
 # * » SINEMA PLATFORM « * #
-#EXTINF:-1 group-title="SINEMA PLATFORM",DIZISMART MAX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA PLATFORM",DIZISMART MAX
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471682&extension=ts
-#EXTINF:-1 group-title="SINEMA PLATFORM",MOVIESMART CLASSIC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA PLATFORM",MOVIESMART CLASSIC
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471684&extension=ts
-#EXTINF:-1 group-title="SINEMA PLATFORM",MOVIESMART TÜRK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA PLATFORM",MOVIESMART TÜRK
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471685&extension=ts
-#EXTINF:-1 group-title="SINEMA PLATFORM",SINEMA TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA PLATFORM",SINEMA TV
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471688&extension=ts
-#EXTINF:-1 group-title="SINEMA PLATFORM",SINEMA TV 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv2-tr.png" group-title="SINEMA PLATFORM",SINEMA TV 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471689&extension=ts
-#EXTINF:-1 group-title="SINEMA PLATFORM",SINEMA TV 1001
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-1001-tr.png" group-title="SINEMA PLATFORM",SINEMA TV 1001
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471686&extension=ts
-#EXTINF:-1 group-title="SINEMA PLATFORM",SINEMA TV 1002
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-1002-tr.png" group-title="SINEMA PLATFORM",SINEMA TV 1002
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471687&extension=ts
-#EXTINF:-1 group-title="SINEMA PLATFORM",SINEMA TV AKSIYON
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-aksiyon-tr.png" group-title="SINEMA PLATFORM",SINEMA TV AKSIYON
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471692&extension=ts
-#EXTINF:-1 group-title="SINEMA PLATFORM",SINEMA TV AKSIYON 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-aksiyon2-tr.png" group-title="SINEMA PLATFORM",SINEMA TV AKSIYON 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471693&extension=ts
-#EXTINF:-1 group-title="SINEMA PLATFORM",SINEMA TV AILE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-aile-tr.png" group-title="SINEMA PLATFORM",SINEMA TV AILE
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471690&extension=ts
-#EXTINF:-1 group-title="SINEMA PLATFORM",SINEMA TV AILE 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-aile2-tr.png" group-title="SINEMA PLATFORM",SINEMA TV AILE 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471691&extension=ts
-#EXTINF:-1 group-title="SINEMA PLATFORM",SINEMA TV YERLI 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-yerli2-tr.png" group-title="SINEMA PLATFORM",SINEMA TV YERLI 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471696&extension=ts
-#EXTINF:-1 group-title="SINEMA PLATFORM",SINEMA TV KOMEDI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-komedi-tr.png" group-title="SINEMA PLATFORM",SINEMA TV KOMEDI
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471694&extension=ts
-#EXTINF:-1 group-title="SINEMA PLATFORM",CINE 6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA PLATFORM",CINE 6
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471697&extension=ts
-#EXTINF:-1 group-title="SINEMA PLATFORM",EPIC DRAMA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA PLATFORM",EPIC DRAMA
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471701&extension=ts
-#EXTINF:-1 group-title="SINEMA PLATFORM",FX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/fx-tr.png" group-title="SINEMA PLATFORM",FX
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471702&extension=ts
-#EXTINF:-1 group-title="SINEMA PLATFORM",TIVI 6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tivi6-tr.png" group-title="SINEMA PLATFORM",TIVI 6
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471703&extension=ts
-# * » SINEMA SERILERI « * #
-#EXTINF:-1 group-title="SINEMA SERILERI",300 SPARTALI
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471737&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",ADALET
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471739&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",ALEV KAPANI
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471741&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",ALI KUNDILLI
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471742&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",AMERIKAN PASTASI
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471743&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",AMMAR CIN TARIKATI
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471744&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",ANT-MAN
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471745&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",ARAF
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471746&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",ARINMA GECESI
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471747&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",AY LAV YU
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471749&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",AZAZIL
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471750&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",AZEM
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471751&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",AÇLIK OYUNLARI
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471738&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",AŞK TESADÜFLERI SEVER
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471748&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",BABALAR SAVAŞIYOR
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471752&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",BANA BIR SOYGUN YAZ
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471753&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",BARBAR CONAN
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471754&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",BASKIN
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471755&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",BATMAN SERISI
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471756&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",BEHZAT Ç.
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471757&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",BIR ZAMANLAR ÇUKUROVA
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471760&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",BITIRIM İKILI
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471761&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",BIÇAK SIRTI
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471759&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",BIÇAĞIN İKI YÜZÜ
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471758&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",BOYUN EĞMEZ
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471762&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",CEHENNEM MELEKLER
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471766&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",CEHENNEM SILAHI
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471767&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",CHARLIE'NIN MELEKLERI
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471769&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",CUMALI CEBER
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471772&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",DABBE
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471773&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",DAĞ
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471774&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",DEADPOOL
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471775&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",DECCAL
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471776&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",DELI DUMRUL
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471777&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",DELIHA
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471778&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",DÜNYANIN EN GÜZEL KOKUSU
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471780&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",DÜĞÜN DERNEK
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471779&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",EJDERHA DÖVMELI KIZ
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471781&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",ELM SOKAĞINDA KÂBUS
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471782&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",EVDE TEK BAŞINA
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471783&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",EYVAH ANNEM DAĞITTI!
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471784&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",EYYVAH EYVAH
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471785&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",FANTASTIK DÖRTLÜ
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471786&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",FELEKTEN BIR GECE
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471787&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",G.I. JOE
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471793&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",GALAKSININ KORUYUCULARI
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471788&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",GARFIELD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471789&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",GELECEĞE DÖNÜŞ
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471791&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",GENIŞ AILE
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471792&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",GEÇMIŞI OLMAYAN ADAM
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471790&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",GOL SERISI
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471794&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",GOOSEBUMPS
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471795&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",GÖREVIMIZ TEHLIKE
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471796&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",GÖSTER GÜNÜNÜ
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471797&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",GÜZEL DEDEKTIF
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471798&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",HARRY POTTER
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471799&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",HAYALET AVCILARI
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471800&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",HAYALET SÜRÜCÜ
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471801&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",HELLBOY
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471802&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",HEP YEK
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471803&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",HIZLI VE ÖFKELI
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471804&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",HOBBIT
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471805&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",HULK
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471807&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",HÜKÜMET KADIN
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471806&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",IRON MAN
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471808&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",JACK REACHER
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471809&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",JAMES BON
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471810&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",JOHNNY ENGLISH
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471812&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",JOHN WICK
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471811&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",JUMANJI
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471813&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",JURASSIC PARK
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471814&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",KAPTAN AMERIKA
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471815&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",KARANLIKLAR ÜLKESI
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471816&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",KARAYIP KORSANLARI
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471817&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",KARDEŞIM BENIM
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471818&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",KELEBEK ETKISI
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471819&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",KILL BILL
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471820&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",KINGSMAN
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471821&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",KIRLI İŞLER
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471822&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",KOCAN KADAR KONUŞ
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471823&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",KOD ADI
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471824&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",KOLPAÇINO
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471825&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",KORKU KAPANI
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471826&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",KORKUNÇ BIR FILM
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471827&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",KORKU SEANSI
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471828&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",KURTLAR VADISI
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471829&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",KURTULUŞ GÜNÜ
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471830&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",KUTSAL DAMACANA
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471831&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",LISELI POLISLER
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471832&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",MALEFIZ
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471833&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",MARVEL 1
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471834&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",MARVEL 2
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471835&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",MASKELI BEŞLER
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471836&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",MATRIX
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471837&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",MAVI KORKU
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471838&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",MAYMUNLAR CEHENNEMI
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471839&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",MUMYA
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471841&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",MÜKEMMEL UYUM
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471840&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",MÜZEDE BIR GECE
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471842&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",RECEP İVEDIK
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471843&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",SPIDER-MAN
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471844&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",TAXI
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471845&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",THOR
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471846&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",TRANSFORMERS
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471850&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",YENILMEZLER
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471847&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",YERALTI CANAVARI
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471848&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",ÇAKALLARLA DANS
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471763&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",ÇALGI ÇENGI
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471764&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",ÇATLAK PROFESÖR
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471765&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",ÇETIN CEVIZ
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471768&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",ÇILGIN DERSANE
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471771&extension=ts
-#EXTINF:-1 group-title="SINEMA SERILERI",ÇIĞLIK
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471770&extension=ts
 # * » SINEMA SALON « * #
-#EXTINF:-1 group-title="SINEMA SALON",MAX VIZYON 3 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA SALON",MAX VIZYON 3 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471875&extension=ts
-#EXTINF:-1 group-title="SINEMA SALON",MAX VIZYON 4 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA SALON",MAX VIZYON 4 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471876&extension=ts
-#EXTINF:-1 group-title="SINEMA SALON",MAX Aksiyon HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA SALON",MAX Aksiyon HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471877&extension=ts
-#EXTINF:-1 group-title="SINEMA SALON",MAX Aksiyon 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA SALON",MAX Aksiyon 2 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471878&extension=ts
-#EXTINF:-1 group-title="SINEMA SALON",MAX GOLD HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA SALON",MAX GOLD HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471880&extension=ts
-#EXTINF:-1 group-title="SINEMA SALON",MAX 007 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA SALON",MAX 007 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471879&extension=ts
-#EXTINF:-1 group-title="SINEMA SALON",MAX HINT FILIMLERI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA SALON",MAX HINT FILIMLERI
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471881&extension=ts
-#EXTINF:-1 group-title="SINEMA SALON",MAX ORJINAL HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA SALON",MAX ORJINAL HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471882&extension=ts
-#EXTINF:-1 group-title="SINEMA SALON",MAX PLUS HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA SALON",MAX PLUS HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471883&extension=ts
-#EXTINF:-1 group-title="SINEMA SALON",MAX PREMIER HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA SALON",MAX PREMIER HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471884&extension=ts
-#EXTINF:-1 group-title="SINEMA SALON",MAX STAR WARS HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA SALON",MAX STAR WARS HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471885&extension=ts
-#EXTINF:-1 group-title="SINEMA SALON",MAX WESTERN HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA SALON",MAX WESTERN HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471888&extension=ts
-#EXTINF:-1 group-title="SINEMA SALON",MAX TURK 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA SALON",MAX TURK 2 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471887&extension=ts
-#EXTINF:-1 group-title="SINEMA SALON",CEM YILMAZ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA SALON",CEM YILMAZ
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1471919&extension=ts
 # * » SINEMA REX « * #
-#EXTINF:-1 group-title="SINEMA REX",REX SINEMA 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA REX",REX SINEMA 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472476&extension=ts
-#EXTINF:-1 group-title="SINEMA REX",REX SINEMA 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA REX",REX SINEMA 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472475&extension=ts
-#EXTINF:-1 group-title="SINEMA REX",REX SINEMA 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA REX",REX SINEMA 3
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472474&extension=ts
-#EXTINF:-1 group-title="SINEMA REX",REX SINEMA 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA REX",REX SINEMA 4
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472473&extension=ts
-#EXTINF:-1 group-title="SINEMA REX",REX SINEMA 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA REX",REX SINEMA 5
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472472&extension=ts
-#EXTINF:-1 group-title="SINEMA REX",REX SINEMA 6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA REX",REX SINEMA 6
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472471&extension=ts
-#EXTINF:-1 group-title="SINEMA REX",REX SINEMA 7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA REX",REX SINEMA 7
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472470&extension=ts
-#EXTINF:-1 group-title="SINEMA REX",REX SINEMA 8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA REX",REX SINEMA 8
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472469&extension=ts
-#EXTINF:-1 group-title="SINEMA REX",REX SINEMA 9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA REX",REX SINEMA 9
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472468&extension=ts
-#EXTINF:-1 group-title="SINEMA REX",REX SINEMA 10
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA REX",REX SINEMA 10
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472467&extension=ts
-#EXTINF:-1 group-title="SINEMA REX",AL PACINO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA REX",AL PACINO
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472350&extension=ts
-#EXTINF:-1 group-title="SINEMA REX",ANGELINA JOLIE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA REX",ANGELINA JOLIE
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472348&extension=ts
-#EXTINF:-1 group-title="SINEMA REX",BABA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA REX",BABA
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472443&extension=ts
-#EXTINF:-1 group-title="SINEMA REX",BUZ DEVRI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA REX",BUZ DEVRI
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472451&extension=ts
-#EXTINF:-1 group-title="SINEMA REX",HANNIBAL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA REX",HANNIBAL
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472439&extension=ts
-#EXTINF:-1 group-title="SINEMA REX",HARRY POTTER
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA REX",HARRY POTTER
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472459&extension=ts
-#EXTINF:-1 group-title="SINEMA REX",JACKIE CHAN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA REX",JACKIE CHAN
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472466&extension=ts
-#EXTINF:-1 group-title="SINEMA REX",JAMES BOND
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA REX",JAMES BOND
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472453&extension=ts
-#EXTINF:-1 group-title="SINEMA REX",JASON STATHAM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA REX",JASON STATHAM
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472391&extension=ts
-#EXTINF:-1 group-title="SINEMA REX",JURASSIC PARK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA REX",JURASSIC PARK
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472457&extension=ts
-#EXTINF:-1 group-title="SINEMA REX",MARVEL 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA REX",MARVEL 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472390&extension=ts
-#EXTINF:-1 group-title="SINEMA REX",MATRIX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA REX",MATRIX
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472465&extension=ts
-#EXTINF:-1 group-title="SINEMA REX",RAMBO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA REX",RAMBO
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472430&extension=ts
-#EXTINF:-1 group-title="SINEMA REX",SCOOBY DOO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA REX",SCOOBY DOO
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472462&extension=ts
-#EXTINF:-1 group-title="SINEMA REX",SHREK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA REX",SHREK
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472460&extension=ts
-#EXTINF:-1 group-title="SINEMA REX",SUPERMAN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA REX",SUPERMAN
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472456&extension=ts
-#EXTINF:-1 group-title="SINEMA REX",SYLVESTER STALLONE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA REX",SYLVESTER STALLONE
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472349&extension=ts
-#EXTINF:-1 group-title="SINEMA REX",WESTERN 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA REX",WESTERN 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472377&extension=ts
-#EXTINF:-1 group-title="SINEMA REX",X-MEN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA REX",X-MEN
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472432&extension=ts
 # * » PREMIUM SINEMA « * #
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM VIZYON 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM VIZYON 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472102&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM VIZYON 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM VIZYON 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472103&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM VIZYON 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM VIZYON 4
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472105&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM VIZYON 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM VIZYON 5
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472106&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM VIZYON 6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM VIZYON 6
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472107&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM VIZYON 9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM VIZYON 9
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472110&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM VIZYON 10
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM VIZYON 10
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472111&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM YERLI 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM YERLI 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472140&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM YERLI 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM YERLI 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472141&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM YERLI 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM YERLI 3
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472142&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM YERLI 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM YERLI 4
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472143&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM YERLI 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM YERLI 5
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472144&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM YERLI 6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM YERLI 6
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472145&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM YERLI 7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM YERLI 7
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472146&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM YERLI 8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM YERLI 8
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472147&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM YERLI 9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM YERLI 9
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472148&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM YERLI 10
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM YERLI 10
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472149&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM YERLI 11
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM YERLI 11
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472150&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM YERLI 12
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM YERLI 12
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472151&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM YERLI 13
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM YERLI 13
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472152&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM YERLI 14
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM YERLI 14
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472153&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM YERLI 15
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM YERLI 15
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472154&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM YERLI 16
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM YERLI 16
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472155&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM YERLI 17
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM YERLI 17
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472156&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM YERLI 18
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM YERLI 18
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472157&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM YERLI 19
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM YERLI 19
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472158&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM YERLI 20
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM YERLI 20
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472159&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM YERLI 21
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM YERLI 21
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472160&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM YERLI 22
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM YERLI 22
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472161&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM YERLI 23
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM YERLI 23
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472162&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM YERLI 24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM YERLI 24
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472163&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM YERLI 25
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM YERLI 25
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472164&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM MARVEL 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM MARVEL 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472122&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM MARVEL 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM MARVEL 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472123&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM MARVEL 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM MARVEL 3
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472124&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM IMBD 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM IMBD 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472130&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM IMBD 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM IMBD 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472131&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM IMBD 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM IMBD 3
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472132&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM IMBD 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM IMBD 5
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472134&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM IMBD 6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM IMBD 6
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472135&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM IMBD 7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM IMBD 7
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472136&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM IMBD 8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM IMBD 8
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472137&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM IMBD 9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM IMBD 9
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472138&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM IMBD 10
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM IMBD 10
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472139&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM ROMANTIK 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM ROMANTIK 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472228&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM ROMANTIK 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM ROMANTIK 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472227&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM ROMANTIK 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM ROMANTIK 3
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472226&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM ROMANTIK 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM ROMANTIK 4
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472225&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM ROMANTIK 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM ROMANTIK 5
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472224&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM ROMANTIK 7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM ROMANTIK 7
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472222&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM ROMANTIK 8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM ROMANTIK 8
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472221&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM ROMANTIK 9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM ROMANTIK 9
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472220&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM ROMANTIK 10
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM ROMANTIK 10
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472219&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM WESTERN 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM WESTERN 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472214&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM WESTERN 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM WESTERN 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472215&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM WESTERN 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM WESTERN 3
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472216&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM WESTERN 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM WESTERN 4
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472217&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM WESTERN 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM WESTERN 5
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472218&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM BILIM KURGU 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM BILIM KURGU 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472204&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM BILIM KURGU 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM BILIM KURGU 3
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472206&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM BILIM KURGU 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM BILIM KURGU 4
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472207&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM BILIM KURGU 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM BILIM KURGU 5
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472208&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM BILIM KURGU 6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM BILIM KURGU 6
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472209&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM BILIM KURGU 7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM BILIM KURGU 7
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472210&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM BILIM KURGU 9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM BILIM KURGU 9
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472212&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM BILIM KURGU 10
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM BILIM KURGU 10
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472213&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM BKM SALON 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM BKM SALON 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472234&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM BKM SALON 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM BKM SALON 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472235&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM BKM SALON 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM BKM SALON 3
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472236&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM BKM SALON 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM BKM SALON 4
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472237&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM BLUTV 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM BLUTV 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472196&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM BLUTV 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM BLUTV 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472197&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM BLUTV 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM BLUTV 3
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472198&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM BOLLYWOOD 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM BOLLYWOOD 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472233&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM BOLLYWOOD 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM BOLLYWOOD 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472232&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM BOLLYWOOD 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM BOLLYWOOD 4
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472230&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM BOLLYWOOD 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM BOLLYWOOD 5
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472229&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM DRAM 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM DRAM 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472194&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM EXXEN 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM EXXEN 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472120&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM EXXEN 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM EXXEN 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472121&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM KEMEDI 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM KEMEDI 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472165&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM KEMEDI 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM KEMEDI 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472166&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM KEMEDI 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM KEMEDI 3
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472167&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM KEMEDI 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM KEMEDI 4
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472168&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM KEMEDI 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM KEMEDI 5
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472169&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM KEMEDI 6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM KEMEDI 6
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472170&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM KEMEDI 7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM KEMEDI 7
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472171&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM MUBI 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM MUBI 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472126&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM SAVAS 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM SAVAS 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472188&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM SAVAS 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM SAVAS 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472189&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM SAVAS 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM SAVAS 3
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472190&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM SAVAS 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM SAVAS 4
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472191&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM SAVAS 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM SAVAS 5
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472192&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM STAR WARS 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM STAR WARS 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472177&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM STAR WARS 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM STAR WARS 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472178&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM STAR WARS 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM STAR WARS 3
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472179&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM TURKCELL TV 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM TURKCELL TV 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472172&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM TURKCELL TV 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM TURKCELL TV 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472173&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM TURKCELL TV 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM TURKCELL TV 3
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472174&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM TURKCELL TV 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM TURKCELL TV 4
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472175&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM TURKCELL TV 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM TURKCELL TV 5
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472176&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PPREMIUM KORKU GERILIM 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PPREMIUM KORKU GERILIM 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472180&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PPREMIUM KORKU GERILIM 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PPREMIUM KORKU GERILIM 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472181&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PPREMIUM KORKU GERILIM 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PPREMIUM KORKU GERILIM 3
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472182&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PPREMIUM KORKU GERILIM 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PPREMIUM KORKU GERILIM 4
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472183&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PPREMIUM KORKU GERILIM 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PPREMIUM KORKU GERILIM 5
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472184&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PPREMIUM KORKU GERILIM 8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PPREMIUM KORKU GERILIM 8
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472187&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM Amazon 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM Amazon 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472199&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM Amazon 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM Amazon 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472200&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM Amazon 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM Amazon 5
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472203&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM ANIMASYON 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM ANIMASYON 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472115&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM ANIMASYON 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM ANIMASYON 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472116&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM ANIMASYON 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM ANIMASYON 3
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472117&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM ANIMASYON 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM ANIMASYON 5
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472119&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM BEIN SERIES 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM BEIN SERIES 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472112&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM BEIN SERIES 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM BEIN SERIES 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472113&extension=ts
-#EXTINF:-1 group-title="PREMIUM SINEMA",PREMIUM BEIN SERIES 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="PREMIUM SINEMA",PREMIUM BEIN SERIES 3
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472114&extension=ts
 # * » PREMIUM NETFLIX « * #
 #EXTINF:-1 group-title="PREMIUM NETFLIX",PREMIUM NETFLIX 1
@@ -1002,449 +949,277 @@ http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=14
 #EXTINF:-1 group-title="PREMIUM DISNEY",PREMIUM DISNEY 15
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472025&extension=ts
 # * » SINEMA YERLI « * #
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472536&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472537&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 3
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472538&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 4
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472539&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 5
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472540&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 6
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472541&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 7
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472542&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 8
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472543&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 9
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472544&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 10
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 10
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472545&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 11
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 11
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472546&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 12
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 12
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472547&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 13
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 13
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472548&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 14
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 14
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472549&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 15
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 15
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472550&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 16
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 16
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472551&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 17
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 17
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472552&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 18
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 18
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472553&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 19
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 19
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472554&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 20
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 20
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472555&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 21
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 21
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472556&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 22
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 22
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472557&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 23
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 23
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472558&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 24
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472559&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 25
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 25
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472560&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 26
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 26
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472561&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 27
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 27
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472562&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 28
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 28
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472563&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 29
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 29
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472564&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 30
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 30
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472565&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 31
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 31
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472566&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 32
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 32
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472567&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 33
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 33
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472568&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 34
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 34
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472569&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 35
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 35
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472570&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 36
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 36
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472571&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 37
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 37
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472572&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 38
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 38
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472573&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 39
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 39
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472574&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 40
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 40
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472575&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 41
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 41
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472576&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 42
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 42
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472577&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 43
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 43
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472578&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 44
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 44
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472579&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 45
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 45
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472580&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 46
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 46
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472581&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 47
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 47
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472582&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 48
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 48
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472583&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 49
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 49
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472584&extension=ts
-#EXTINF:-1 group-title="SINEMA YERLI",SINEMA YERLI 50
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YERLI",SINEMA YERLI 50
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472585&extension=ts
 # * » SINEMA YEŞILÇAM « * #
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",ŞENER ŞEN 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",ŞENER ŞEN 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472652&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",ŞENER ŞEN 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",ŞENER ŞEN 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472653&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",ŞENER ŞEN 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",ŞENER ŞEN 3
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472654&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",ŞENER ŞEN 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",ŞENER ŞEN 4
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472655&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",ŞENER ŞEN 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",ŞENER ŞEN 5
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472656&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",KEMAL SUNAL 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",KEMAL SUNAL 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472683&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",KEMAL SUNAL 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",KEMAL SUNAL 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472684&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",KEMAL SUNAL 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",KEMAL SUNAL 3
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472685&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",KEMAL SUNAL 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",KEMAL SUNAL 4
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472686&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",İLYAS SALMAN 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",İLYAS SALMAN 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472663&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",İLYAS SALMAN 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",İLYAS SALMAN 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472664&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",İLYAS SALMAN 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",İLYAS SALMAN 3
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472665&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",İLYAS SALMAN 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",İLYAS SALMAN 4
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472666&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",CÜNEYT ARKIN 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",CÜNEYT ARKIN 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472667&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",CÜNEYT ARKIN 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",CÜNEYT ARKIN 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472668&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",CÜNEYT ARKIN 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",CÜNEYT ARKIN 3
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472669&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",CÜNEYT ARKIN 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",CÜNEYT ARKIN 4
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472670&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",CÜNEYT ARKIN 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",CÜNEYT ARKIN 5
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472671&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",TÜRKAN ŞORAY 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",TÜRKAN ŞORAY 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472703&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",TÜRKAN ŞORAY 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",TÜRKAN ŞORAY 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472704&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",TÜRKAN ŞORAY 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",TÜRKAN ŞORAY 3
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472705&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",TÜRKAN ŞORAY 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",TÜRKAN ŞORAY 4
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472706&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",TÜRKAN ŞORAY 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",TÜRKAN ŞORAY 5
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472707&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",TÜRKAN ŞORAY 6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",TÜRKAN ŞORAY 6
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472708&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",YEŞILÇAM 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",YEŞILÇAM 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472657&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",YEŞILÇAM 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",YEŞILÇAM 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472658&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",YEŞILÇAM 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",YEŞILÇAM 3
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472659&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",YEŞILÇAM 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",YEŞILÇAM 4
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472660&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",YEŞILÇAM 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",YEŞILÇAM 5
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472661&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",YEŞILÇAM 6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",YEŞILÇAM 6
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472662&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",BANU ALKAN 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",BANU ALKAN 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472713&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",CINE YEŞILÇAM 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",CINE YEŞILÇAM 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472714&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",CINE YEŞILÇAM 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",CINE YEŞILÇAM 3
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472716&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",CINE YEŞILÇAM 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",CINE YEŞILÇAM 4
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472717&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",EMEL SAYIN 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",EMEL SAYIN 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472672&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",FATMA GIRIK 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",FATMA GIRIK 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472673&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",FATMA GIRIK 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",FATMA GIRIK 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472674&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",FILIZ AKIN 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",FILIZ AKIN 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472675&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",HÜLYA KOÇYIĞIT 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",HÜLYA KOÇYIĞIT 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472676&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",HÜLYA KOÇYIĞIT 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",HÜLYA KOÇYIĞIT 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472677&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",KADIR İNANIR 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",KADIR İNANIR 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472678&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",KADIR İNANIR 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",KADIR İNANIR 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472679&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",KADIR İNANIR 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",KADIR İNANIR 3
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472680&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",KELOĞLAN 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",KELOĞLAN 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472681&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",KELOĞLAN 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",KELOĞLAN 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472682&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",MINUR OZKUL 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",MINUR OZKUL 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472687&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",MINUR ÖZKUL 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",MINUR ÖZKUL 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472688&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",MÜJDE AR 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",MÜJDE AR 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472689&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",MÜJDE AR 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",MÜJDE AR 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472690&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",ORHAN GENCEBAY 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",ORHAN GENCEBAY 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472691&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",ORHAN GENCEBAY 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",ORHAN GENCEBAY 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472692&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",SADRI ALIŞIK 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",SADRI ALIŞIK 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472693&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",SADRI ALIŞIK 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",SADRI ALIŞIK 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472694&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",SADRI ALIŞIK 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",SADRI ALIŞIK 3
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472695&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",SIYAH BEYAZ NOSTALJI 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",SIYAH BEYAZ NOSTALJI 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472696&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",SIYAH BEYAZ NOSTALJI 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",SIYAH BEYAZ NOSTALJI 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472697&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",SIYAH BEYAZ NOSTALJI 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",SIYAH BEYAZ NOSTALJI 3
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472698&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",SIYAH BEYAZ NOSTALJI 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",SIYAH BEYAZ NOSTALJI 4
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472699&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",SIYAH BEYAZ NOSTALJI 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",SIYAH BEYAZ NOSTALJI 5
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472700&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",TARIK AKAN 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",TARIK AKAN 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472701&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",TARIK AKAN 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",TARIK AKAN 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472702&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",YILMAZ GÜNEY 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",YILMAZ GÜNEY 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472709&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",YILMAZ GÜNEY 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",YILMAZ GÜNEY 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472710&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",ZEKI & METIN AKPINAR 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",ZEKI & METIN AKPINAR 1
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472711&extension=ts
-#EXTINF:-1 group-title="SINEMA YEŞILÇAM",ZEKI & METIN AKPINAR 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YEŞILÇAM",ZEKI & METIN AKPINAR 2
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=1472712&extension=ts
 # * » SINEMA YABANCI « * #
-#EXTINF:-1 group-title="SINEMA YABANCI",BEIN BOX OFFICE 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-box-office-1-tr.png" group-title="SINEMA YABANCI",BEIN BOX OFFICE 1 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197154&extension=ts
-#EXTINF:-1 group-title="SINEMA YABANCI",BEIN BOX OFFICE 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-box-office-2-tr.png" group-title="SINEMA YABANCI",BEIN BOX OFFICE 2 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197153&extension=ts
-#EXTINF:-1 group-title="SINEMA YABANCI",BEIN BOX OFFICE 3 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-box-office-3-tr.png" group-title="SINEMA YABANCI",BEIN BOX OFFICE 3 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197152&extension=ts
-#EXTINF:-1 group-title="SINEMA YABANCI",BEIN MOVIES PREMIERE 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YABANCI",BEIN MOVIES PREMIERE 1 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197143&extension=ts
-#EXTINF:-1 group-title="SINEMA YABANCI",BEIN MOVIES PREMIERE 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-movies-premiere-2-hd-tr.png" group-title="SINEMA YABANCI",BEIN MOVIES PREMIERE 2 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197142&extension=ts
-#EXTINF:-1 group-title="SINEMA YABANCI",BEIN MOVIES TURK HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-movies-turk-hd-tr.png" group-title="SINEMA YABANCI",BEIN MOVIES TURK HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197155&extension=ts
-#EXTINF:-1 group-title="SINEMA YABANCI",BEIN SERIES 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-series-drama-hd-tr.png" group-title="SINEMA YABANCI",BEIN SERIES 1 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197146&extension=ts
-#EXTINF:-1 group-title="SINEMA YABANCI",BEIN SERIES 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-series-drama-hd-tr.png" group-title="SINEMA YABANCI",BEIN SERIES 2 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197148&extension=ts
-#EXTINF:-1 group-title="SINEMA YABANCI",BEIN SERIES 4 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/bein-series-comedy-hd-tr.png" group-title="SINEMA YABANCI",BEIN SERIES 4 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197150&extension=ts
-#EXTINF:-1 group-title="SINEMA YABANCI",MOVIESMART CLASSIC HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YABANCI",MOVIESMART CLASSIC HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197139&extension=ts
-#EXTINF:-1 group-title="SINEMA YABANCI",MOVIESMART TURK HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YABANCI",MOVIESMART TURK HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197136&extension=ts
-#EXTINF:-1 group-title="SINEMA YABANCI",EPIC DRAMA HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YABANCI",EPIC DRAMA HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197138&extension=ts
-#EXTINF:-1 group-title="SINEMA YABANCI",SINEMA TV 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YABANCI",SINEMA TV 1 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197130&extension=ts
-#EXTINF:-1 group-title="SINEMA YABANCI",SINEMA TV 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv2-tr.png" group-title="SINEMA YABANCI",SINEMA TV 2 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197129&extension=ts
-#EXTINF:-1 group-title="SINEMA YABANCI",SINEMA TV 1001 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-1001-tr.png" group-title="SINEMA YABANCI",SINEMA TV 1001 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197121&extension=ts
-#EXTINF:-1 group-title="SINEMA YABANCI",SINEMA TV 1002 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-1002-tr.png" group-title="SINEMA YABANCI",SINEMA TV 1002 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197120&extension=ts
-#EXTINF:-1 group-title="SINEMA YABANCI",SINEMA TV AKSIYON 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YABANCI",SINEMA TV AKSIYON 1 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197134&extension=ts
-#EXTINF:-1 group-title="SINEMA YABANCI",SINEMA TV AKSIYON 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-aksiyon2-tr.png" group-title="SINEMA YABANCI",SINEMA TV AKSIYON 2 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197133&extension=ts
-#EXTINF:-1 group-title="SINEMA YABANCI",SINEMA TV KOMEDI 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YABANCI",SINEMA TV KOMEDI 2 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197125&extension=ts
-#EXTINF:-1 group-title="SINEMA YABANCI",SINEMA TV AILE 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="SINEMA YABANCI",SINEMA TV AILE 1 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197131&extension=ts
-#EXTINF:-1 group-title="SINEMA YABANCI",SINEMA TV AILE 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-aile2-tr.png" group-title="SINEMA YABANCI",SINEMA TV AILE 2 HD
 http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197132&extension=ts
-# * » BEIN SPORTS HEVC « * #
-#EXTINF:-1 group-title="BEIN SPORTS HEVC",BEIN SPORTS 1 FHD HEVC
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988849&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS HEVC",BEIN SPORTS 1 FHD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988850&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS HEVC",BEIN SPORTS 1 HD HEVC
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988851&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS HEVC",BEIN SPORTS 1 HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988852&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS HEVC",BEIN SPORTS 1
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988853&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS HEVC",BEIN SPORTS 2 FHD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988854&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS HEVC",BEIN SPORTS 2 HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988855&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS HEVC",BEIN SPORTS 3 FHD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988856&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS HEVC",BEIN SPORTS 3 HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988857&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS HEVC",BEIN SPORTS 4 FHD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988858&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS HEVC",BEIN SPORTS 4 HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988859&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS HEVC",BEIN SPORTS 5 HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988861&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS HEVC",BEIN SPORTS MAX 1 HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988862&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS HEVC",BEIN SPORTS MAX 2 HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988863&extension=ts
-# * » BEIN SPORTS FHD « * #
-#EXTINF:-1 group-title="BEIN SPORTS FHD",BEIN SPORTS 1 RAW
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988867&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS FHD",BEIN SPORTS 1 FHD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988874&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS FHD",BEIN SPORTS 1 HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988881&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS FHD",BEIN SPORTS 2 RAW
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988868&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS FHD",BEIN SPORTS 2 FHD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988875&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS FHD",BEIN SPORTS 2 HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988882&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS FHD",BEIN SPORTS 3 RAW
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988869&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS FHD",BEIN SPORTS 3 FHD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988876&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS FHD",BEIN SPORTS 3 HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988883&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS FHD",BEIN SPORTS 4 RAW
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988870&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS FHD",BEIN SPORTS 4 FHD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988877&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS FHD",BEIN SPORTS 4 HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988884&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS FHD",BEIN SPORTS 5 RAW
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988871&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS FHD",BEIN SPORTS 5 FHD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988878&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS FHD",BEIN SPORTS 5 HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988885&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS FHD",BEIN SPORTS MAX 1 RAW
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988872&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS FHD",BEIN SPORTS MAX 2 RAW
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=988873&extension=ts
-# * » BEIN SPORTS « * #
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS MAX 1 HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=740&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS MAX 2 HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=739&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN SPORTS 5
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=214066&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN CONNECT 1 HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=793282&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN CONNECT 2 HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=793283&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN CONNECT 3 HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=793284&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN CONNECT 4 HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=793285&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN CONNECT 5 HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=793286&extension=ts
-#EXTINF:-1 group-title="BEIN SPORTS",BEIN CONNECT 6 HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=793287&extension=ts
-# * » EXXEN SPORTS « * #
-#EXTINF:-1 group-title="EXXEN SPORTS",EXXEN SPORTS 1 4K
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=15340&extension=ts
-#EXTINF:-1 group-title="EXXEN SPORTS",EXXEN SPORTS 1 HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=15521&extension=ts
-#EXTINF:-1 group-title="EXXEN SPORTS",EXXEN SPORTS 1
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=15522&extension=ts
-#EXTINF:-1 group-title="EXXEN SPORTS",EXXEN SPORTS 2 HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=15341&extension=ts
-#EXTINF:-1 group-title="EXXEN SPORTS",EXXEN SPORTS 3 HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=15342&extension=ts
-#EXTINF:-1 group-title="EXXEN SPORTS",EXXEN SPORTS 4 FHD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=15515&extension=ts
-#EXTINF:-1 group-title="EXXEN SPORTS",EXXEN SPORTS 5 FHD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=15516&extension=ts
-#EXTINF:-1 group-title="EXXEN SPORTS",EXXEN SPORTS 6 FHD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=15517&extension=ts
-#EXTINF:-1 group-title="EXXEN SPORTS",EXXEN SPORTS 7 FHD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=15518&extension=ts
-#EXTINF:-1 group-title="EXXEN SPORTS",EXXEN SPORTS 8 FHD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=15519&extension=ts
-# * » S SPORTS « * #
-#EXTINF:-1 group-title="S SPORTS",SPOR SMART 1 4K
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=713&extension=ts
-#EXTINF:-1 group-title="S SPORTS",SPOR SMART 2 4K
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=18631&extension=ts
-#EXTINF:-1 group-title="S SPORTS",FIGHTBOX 4K
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=18635&extension=ts
-#EXTINF:-1 group-title="S SPORTS",SPOR SMART 1 HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=704&extension=ts
-#EXTINF:-1 group-title="S SPORTS",SPOR SMART 2 HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=18640&extension=ts
-#EXTINF:-1 group-title="SPOR",TRT SPOR 8K
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=709&extension=ts
-#EXTINF:-1 group-title="SPOR",TRT SPOR YILDIZ 8K
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=18644&extension=ts
-#EXTINF:-1 group-title="SPOR",A SPOR 8K
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=710&extension=ts
-#EXTINF:-1 group-title="SPOR",TJK TV 8K
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=18648&extension=ts
-#EXTINF:-1 group-title="SPOR",TRT SPOR 4K
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=701&extension=ts
-#EXTINF:-1 group-title="SPOR",TRT SPOR YILDIZ 4K
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=18645&extension=ts
-#EXTINF:-1 group-title="SPOR",A SPOR 4K
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=702&extension=ts
-#EXTINF:-1 group-title="SPOR",FENERBACHE TV HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=695&extension=ts
-# * » TIVIBU SPOR « * #
-#EXTINF:-1 group-title="TIVIBU SPOR",TIVIBU SPOR 1 4K
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=722&extension=ts
-#EXTINF:-1 group-title="TIVIBU SPOR",TIVIBU SPOR 2 4K
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=721&extension=ts
-#EXTINF:-1 group-title="TIVIBU SPOR",TIVIBU SPOR 4 4K
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=15569&extension=ts
-# * » TABII SPOR « * #
-#EXTINF:-1 group-title="TABII SPOR",TABII SPOR 1 HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=879139&extension=ts
-#EXTINF:-1 group-title="TABII SPOR",TABII SPOR 5 HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=879143&extension=ts
-# * » BELGESEL « * #
-#EXTINF:-1 group-title="BELGESEL",TRT BELGESEL HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197441&extension=ts
-#EXTINF:-1 group-title="BELGESEL",DISCOVERY CHANNEL HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197427&extension=ts
-#EXTINF:-1 group-title="BELGESEL",24KITCHEN HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197440&extension=ts
-#EXTINF:-1 group-title="BELGESEL",VIASAT HISTORY HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197420&extension=ts
-#EXTINF:-1 group-title="BELGESEL",VIASAT EXPLORE HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197442&extension=ts
-#EXTINF:-1 group-title="BELGESEL",DMAX HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197428&extension=ts
-#EXTINF:-1 group-title="BELGESEL",TLC HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197429&extension=ts
-#EXTINF:-1 group-title="BELGESEL",LOVE NATURE HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197434&extension=ts
-#EXTINF:-1 group-title="BELGESEL",BEIN GURME HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197426&extension=ts
-#EXTINF:-1 group-title="BELGESEL",BEIN IZ HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197425&extension=ts
-#EXTINF:-1 group-title="BELGESEL",TGRT BELGESEL HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197424&extension=ts
-#EXTINF:-1 group-title="BELGESEL",TRT AVAZ HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197422&extension=ts
-#EXTINF:-1 group-title="BELGESEL",YABAN TV HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197439&extension=ts
-#EXTINF:-1 group-title="BELGESEL",BBC EARTH HD
-http://mag.nando2025.vip/play/live.php?mac=00%3A1A%3A79%3AF1%3AF3%3A7B&stream=197431&extension=ts
